@@ -76,9 +76,9 @@ A complete 11-deliverable portfolio kit for an aesthetics / medspa virtual recep
 
 Available for **medspa, aesthetics, dermatology, and medical practices**.
 
-- 📧 **Email:** [your-email@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- 🔗 **Upwork:** [upwork.com/freelancers/yourprofile](https://upwork.com)
+- 📧 **Email:** [ajiiprincessgoodness@gmail.com](mailto:ajiiprincessgoodness@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/goodness-ajii](https://www.linkedin.com/in/goodness-ajii)
+- 🔗 **Upwork:** [Goodness Ajii on Upwork](https://www.upwork.com/freelancers/~0127a740e424a99a93)
 - 🎧 **Voice Demo:** *coming soon*
 - 📂 **Portfolio:** [github.com/goodness-ajii/medspa-va-portfolio](https://github.com/goodness-ajii/medspa-va-portfolio)
 
