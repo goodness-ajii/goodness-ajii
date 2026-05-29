@@ -126,3 +126,4 @@ I respond promptly during my available hours. Send me a message — let's see if
 <p align="center">
   <sub>Open to long-term, ongoing roles. Currently accepting new clients.</sub>
 </p>
+ Update profile README with complete portfolio
