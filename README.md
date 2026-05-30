@@ -12,7 +12,7 @@
 
 Every missed call at your clinic is a missed patient — and a lost **$500 to $2,000** in lifetime value.
 
-If your phones ring while your in-office team is with patients, your voicemails pile up faster than you can return them, or your current VA doesn't truly understand medspa terminology and HIPAA — **that's exactly what I solve.**
+If your phones ring while your in-office team is with patients, your voicemails pile up faster than you can return them, or your current VA doesn't truly understand medical terminology and HIPAA — **that's exactly what I solve.**
 
 I become the warm, calm, clinically-trained voice that answers your phones — so your patients feel cared for and your in-clinic team can focus on the patients in front of them.
 
