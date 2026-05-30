@@ -10,7 +10,7 @@
 
 ## 🩺 The Problem I Solve
 
-Every missed call at your medspa is a missed patient — and a lost **$500 to $2,000** in lifetime value.
+Every missed call at your clinic is a missed patient — and a lost **$500 to $2,000** in lifetime value.
 
 If your phones ring while your in-office team is with patients, your voicemails pile up faster than you can return them, or your current VA doesn't truly understand medspa terminology and HIPAA — **that's exactly what I solve.**
 
