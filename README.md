@@ -1,4 +1,4 @@
-<h1 align="center">Are Missed Calls Costing You Clinic Revenue?</h1>
+<h1 align="center">Are Missed Calls Costing Your Clinic Revenue?</h1>
 
 <h3 align="center">I'm Goodness — RN, 10 yrs clinical, your next Medical Virtual Assistant.</h3>
 
